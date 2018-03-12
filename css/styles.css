@@ -1,0 +1,107 @@
+h1{
+    text-align-last: center;
+    color: #ff6347;
+    font-family: "Comic Sans-serif", Sans-serif;
+    font-weight: bold;
+    font-size: 3.5em; 
+    margin-top: -20px;
+}
+h2{
+    text-align: center;
+    color : #ff6347;
+    font-size: 1em; 
+    font-family: "Comic Sans-serif", Sans-serif;
+    margin-top: -30px;
+}
+head{
+    background-color: green;
+       margin-top: -50px;
+}
+#result{
+    font-family: "Comic Sans-serif", Sans-serif;
+    font-size:150%;
+    color: #20B2AA;
+    margin-top: 60px;
+    
+}
+#pic{
+     width: 122px;
+    height: 100px;
+}
+#calculator{
+    border-radius:80px;
+}
+#layoutDiv{
+    font-family: "Comic Sans-serif", Sans-serif;
+    font-size:200%;
+    color: #20B2AA;
+    width:100%;
+    text-align: center;
+}
+#layoutDiv1{
+    font-family: "Comic Sans-serif", Sans-serif;
+    font-size:160%;
+    border-radius:80px;
+    width:100%;
+    text-align: center;
+}
+body{
+    text-align:center;
+    background-image: url(math.jpg);
+    margin-top: 175px;
+ 
+}
+h3{
+    font-family: "Comic Sans-serif", Sans-serif;
+    color: #9400D3;
+    font-size:110%;
+}
+footer{
+    clear: left;
+    text-align: center;
+    color: black;
+}
+#csumb{
+    font-family: "Comic Sans-serif", Sans-serif;
+    font-size:80%;
+    margin-top: 130px;
+}
+#reason{
+    font-family: "Comic Sans-serif", Sans-serif;
+    font-size:75%;
+    color: #000080;
+    font-weight: bold;
+}
+#reason2{
+    font-family: "Comic Sans-serif", Sans-serif;
+    font-size:75%;
+    color: 	#800080;
+    font-weight: bold;
+}
+#warning{
+    font-family: "Comic Sans-serif", Sans-serif;
+    font-size:120%;
+    color: 	#20B2AA;
+    font-weight: bold;
+}
+#start{
+    font-family: "Comic Sans-serif", Sans-serif;
+    font-size:100%;
+    color: 	#20B2AA;
+    font-weight: bold;
+}
+#res{
+     font-family: "Comic Sans-serif", Sans-serif;
+    font-size:150%;
+    color: #20B2AA;
+    margin-top: 60px;   
+}
+#res2{
+     font-family: "Comic Sans-serif", Sans-serif;
+    font-size:150%;
+    color: #20B2AA;
+    margin-top: 60px;   
+}
+#claim{
+    font-weight: bold;
+}
