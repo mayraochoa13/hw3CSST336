@@ -24,9 +24,13 @@ head{
     margin-top: 60px;
     
 }
-#pic{
+#pic2{
      width: 122px;
     height: 100px;
+}
+#pic{
+     width: 55px;
+    height: 60px;
 }
 #calculator{
     border-radius:80px;

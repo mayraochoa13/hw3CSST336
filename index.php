@@ -139,7 +139,7 @@
         <footer>
           <br /><br />
             <figure id="csumb">
-                    <img width = "170" height = "130" alt="affective" id="pic" src = "https://experiencecle.com/wp-content/uploads/2016/03/csumb_logo-1.png"/><br/>
+                    <img width = "170" height = "130" alt="affective" id="pic2" src = "https://experiencecle.com/wp-content/uploads/2016/03/csumb_logo-1.png"/><br/>
                      CST 336 Internet Programming. 2018© <br/>
                      <strong id="claim">Disclaimer:</strong> the information in this webpage is fictitous. <br/>
                      It is used for academic purposes only.
